@@ -1,7 +1,6 @@
 
 
-![@wesleyroberts](https://avatars.githubusercontent.com/u/69482890?s=40&v=4)
-
+![@wesleyroberts](https://avatars.githubusercontent.com/u/69482890?s=40&v=4) Software engineer intern
 ### **Learning Objectives**
 
 In this module, you'll understand how to build a complete real-world liferay application, understand how to connect your business logic to your user interface, and learn how to leverage time-saving liferay tools and frameworks in a single application.
