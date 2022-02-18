@@ -1,0 +1,4 @@
+Bundle-Name: gradebook-web
+Bundle-SymbolicName: gradebook.web
+Bundle-Version: 1.0.0
+Export-Package: gradebook.web.constants
